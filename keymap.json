@@ -5,7 +5,7 @@
   "keyboard": "handwired/dactyl_manuform/5x6",
   "keymap": "hacker-test-github",
   "layout": "LAYOUT_5x6",
-"layers": [
+  "layers": [
     [
       "KC_TRNS",
       "KC_TRNS",
